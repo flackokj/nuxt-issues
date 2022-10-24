@@ -11,6 +11,7 @@
     "nuxt": "3.0.0-rc.12"
   },
   "dependencies": {
-    "@heroicons/vue": "^2.0.12"
+    "@heroicons/vue": "^2.0.12",
+    "vue": "^3.2.41"
   }
 }
